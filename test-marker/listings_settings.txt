@@ -1,0 +1,37 @@
+\usepackage{subcaption}
+
+
+\usepackage{listings}
+\usepackage{rotating}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{enumitem,amssymb,pdfpages}
+
+
+
+\definecolor{cmdWhite}{RGB}{255,255,255}
+\definecolor{cmdBlack}{RGB}{0,0,0}
+
+
+\lstdefinestyle{cmdoutput}{
+    frame = single,
+    belowcaptionskip=1\baselineskip,
+    breaklines=true,
+    numbers=left,
+    xleftmargin=\parindent,
+    language=C++,
+    showstringspaces=false,
+    basicstyle=\footnotesize\ttfamily\color{cmdBlack},
+    keywordstyle=\bfseries\color{cmdBlack},
+    commentstyle=\itshape\color{cmdBlack},
+    identifierstyle=\color{cmdBlack},
+    stringstyle=\color{cmdBlack},
+    backgroundcolor=\color{cmdWhite},
+    rulecolor=\color{cmdBlack},
+    rulesepcolor=\color{cmdBlack},
+    escapeinside={\%LISTING:}{\^^M},
+    xleftmargin=0.5cm,
+    xrightmargin=0.5cm,
+}
+
+
