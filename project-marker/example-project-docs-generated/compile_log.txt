@@ -1,0 +1,4 @@
+Output:
+Errors:
+
+Other files:  Checkerboard.cpp Checkerboard.h input.txt main.cpp results.txt run name.aux name_studentnum.log name_studentnum.pdf name.tex

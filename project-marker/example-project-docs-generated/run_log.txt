@@ -1,0 +1,636 @@
+_ X _ X _ X 
+X _ X _ X _ 
+_ # _ # _ # 
+# _ # _ # _ 
+_ O _ O _ O 
+O _ O _ O _ 
+number of X pieces = 6
+number of O pieces = 6
+
+_ X _ X _ X 
+X _ X _ X _ 
+_ # _ # _ # 
+# _ O _ # _ 
+_ # _ O _ O 
+O _ O _ O _ 
+number of X pieces = 6
+number of O pieces = 6
+
+_ X _ X _ X 
+# _ X _ X _ 
+_ X _ # _ # 
+# _ O _ # _ 
+_ # _ O _ O 
+O _ O _ O _ 
+number of X pieces = 6
+number of O pieces = 6
+
+_ X _ X _ X 
+O _ X _ X _ 
+_ # _ # _ # 
+# _ # _ # _ 
+_ # _ O _ O 
+O _ O _ O _ 
+number of X pieces = 5
+number of O pieces = 6
+
+_ X _ X _ X 
+O _ X _ # _ 
+_ # _ X _ # 
+# _ # _ # _ 
+_ # _ O _ O 
+O _ O _ O _ 
+number of X pieces = 5
+number of O pieces = 6
+
+_ X _ X _ X 
+O _ X _ # _ 
+_ # _ X _ # 
+# _ # _ # _ 
+_ O _ O _ O 
+O _ # _ O _ 
+number of X pieces = 5
+number of O pieces = 6
+
+_ X _ X _ # 
+O _ X _ X _ 
+_ # _ X _ # 
+# _ # _ # _ 
+_ O _ O _ O 
+O _ # _ O _ 
+number of X pieces = 5
+number of O pieces = 6
+
+_ X _ X _ # 
+O _ X _ X _ 
+_ # _ X _ # 
+# _ O _ # _ 
+_ # _ O _ O 
+O _ # _ O _ 
+number of X pieces = 5
+number of O pieces = 6
+
+_ X _ X _ # 
+O _ X _ X _ 
+_ # _ # _ # 
+# _ # _ # _ 
+_ X _ O _ O 
+O _ # _ O _ 
+number of X pieces = 5
+number of O pieces = 5
+
+_ X _ X _ # 
+O _ X _ X _ 
+_ # _ # _ # 
+# _ O _ # _ 
+_ # _ O _ O 
+# _ # _ O _ 
+number of X pieces = 4
+number of O pieces = 5
+
+_ X _ X _ # 
+O _ # _ X _ 
+_ X _ # _ # 
+# _ O _ # _ 
+_ # _ O _ O 
+# _ # _ O _ 
+number of X pieces = 4
+number of O pieces = 5
+
+_ X _ X _ # 
+O _ # _ X _ 
+_ X _ # _ # 
+# _ O _ O _ 
+_ # _ O _ # 
+# _ # _ O _ 
+number of X pieces = 4
+number of O pieces = 5
+
+_ X _ X _ # 
+O _ # _ # _ 
+_ X _ X _ # 
+# _ O _ O _ 
+_ # _ O _ # 
+# _ # _ O _ 
+number of X pieces = 4
+number of O pieces = 5
+
+_ X _ X _ # 
+O _ # _ O _ 
+_ X _ # _ # 
+# _ # _ O _ 
+_ # _ O _ # 
+# _ # _ O _ 
+number of X pieces = 3
+number of O pieces = 5
+
+_ X _ # _ # 
+O _ # _ # _ 
+_ X _ # _ X 
+# _ # _ O _ 
+_ # _ O _ # 
+# _ # _ O _ 
+number of X pieces = 3
+number of O pieces = 4
+
+_ X _ # _ # 
+O _ # _ # _ 
+_ X _ # _ X 
+# _ # _ O _ 
+_ # _ O _ O 
+# _ # _ # _ 
+number of X pieces = 3
+number of O pieces = 4
+
+_ # _ # _ # 
+O _ X _ # _ 
+_ X _ # _ X 
+# _ # _ O _ 
+_ # _ O _ O 
+# _ # _ # _ 
+number of X pieces = 3
+number of O pieces = 4
+
+_ O _ # _ # 
+# _ X _ # _ 
+_ X _ # _ X 
+# _ # _ O _ 
+_ # _ O _ O 
+# _ # _ # _ 
+number of X pieces = 3
+number of O pieces = 4
+
+_ O _ # _ # 
+# _ # _ # _ 
+_ X _ X _ X 
+# _ # _ O _ 
+_ # _ O _ O 
+# _ # _ # _ 
+number of X pieces = 3
+number of O pieces = 4
+
+_ O _ # _ # 
+# _ O _ # _ 
+_ X _ # _ X 
+# _ # _ # _ 
+_ # _ O _ O 
+# _ # _ # _ 
+number of X pieces = 2
+number of O pieces = 4
+
+_ O _ # _ # 
+# _ O _ # _ 
+_ X _ # _ # 
+# _ # _ X _ 
+_ # _ O _ O 
+# _ # _ # _ 
+number of X pieces = 2
+number of O pieces = 4
+
+_ O _ # _ # 
+# _ O _ # _ 
+_ X _ O _ # 
+# _ # _ # _ 
+_ # _ O _ # 
+# _ # _ # _ 
+number of X pieces = 1
+number of O pieces = 4
+
+_ O _ # _ # 
+# _ O _ # _ 
+_ # _ O _ # 
+# _ X _ # _ 
+_ # _ O _ # 
+# _ # _ # _ 
+number of X pieces = 1
+number of O pieces = 4
+
+_ O _ # _ # 
+# _ O _ # _ 
+_ O _ O _ # 
+# _ # _ # _ 
+_ # _ # _ # 
+# _ # _ # _ 
+number of X pieces = 0
+number of O pieces = 4
+
+_ O _ # _ # 
+# _ O _ # _ 
+_ O _ O _ # 
+# _ # _ # _ 
+_ # _ # _ # 
+# _ # _ # _ 
+number of X pieces = 0
+number of O pieces = 4
+
+_ X _ X _ X _ X 
+X _ X _ X _ X _ 
+_ X _ X _ X _ X 
+# _ # _ # _ # _ 
+_ # _ # _ # _ # 
+O _ O _ O _ O _ 
+_ O _ O _ O _ O 
+O _ O _ O _ O _ 
+number of X pieces = 12
+number of O pieces = 12
+
+_ X _ X _ X _ X 
+X _ X _ X _ X _ 
+_ X _ X _ X _ X 
+# _ # _ # _ # _ 
+_ # _ O _ # _ # 
+O _ O _ # _ O _ 
+_ O _ O _ O _ O 
+O _ O _ O _ O _ 
+number of X pieces = 12
+number of O pieces = 12
+
+_ X _ X _ X _ X 
+X _ X _ X _ X _ 
+_ X _ # _ X _ X 
+# _ # _ X _ # _ 
+_ # _ O _ # _ # 
+O _ O _ # _ O _ 
+_ O _ O _ O _ O 
+O _ O _ O _ O _ 
+number of X pieces = 12
+number of O pieces = 12
+
+_ X _ X _ X _ X 
+X _ X _ X _ X _ 
+_ X _ # _ X _ X 
+# _ # _ X _ # _ 
+_ O _ O _ # _ # 
+O _ # _ # _ O _ 
+_ O _ O _ O _ O 
+O _ O _ O _ O _ 
+number of X pieces = 12
+number of O pieces = 12
+
+_ X _ X _ X _ X 
+X _ X _ X _ X _ 
+_ X _ # _ X _ X 
+# _ # _ # _ # _ 
+_ O _ # _ # _ # 
+O _ X _ # _ O _ 
+_ O _ O _ O _ O 
+O _ O _ O _ O _ 
+number of X pieces = 12
+number of O pieces = 11
+
+_ X _ X _ X _ X 
+X _ X _ X _ X _ 
+_ X _ # _ X _ X 
+# _ # _ # _ # _ 
+_ O _ O _ # _ # 
+O _ # _ # _ O _ 
+_ # _ O _ O _ O 
+O _ O _ O _ O _ 
+number of X pieces = 11
+number of O pieces = 11
+
+_ X _ X _ X _ X 
+X _ X _ # _ X _ 
+_ X _ X _ X _ X 
+# _ # _ # _ # _ 
+_ O _ O _ # _ # 
+O _ # _ # _ O _ 
+_ # _ O _ O _ O 
+O _ O _ O _ O _ 
+number of X pieces = 11
+number of O pieces = 11
+
+_ X _ X _ X _ X 
+X _ X _ # _ X _ 
+_ X _ X _ X _ X 
+# _ O _ # _ # _ 
+_ O _ # _ # _ # 
+O _ # _ # _ O _ 
+_ # _ O _ O _ O 
+O _ O _ O _ O _ 
+number of X pieces = 11
+number of O pieces = 11
+
+_ X _ X _ # _ X 
+X _ X _ X _ X _ 
+_ X _ X _ X _ X 
+# _ O _ # _ # _ 
+_ O _ # _ # _ # 
+O _ # _ # _ O _ 
+_ # _ O _ O _ O 
+O _ O _ O _ O _ 
+number of X pieces = 11
+number of O pieces = 11
+
+_ X _ X _ # _ X 
+X _ X _ X _ X _ 
+_ X _ X _ X _ X 
+O _ O _ # _ # _ 
+_ # _ # _ # _ # 
+O _ # _ # _ O _ 
+_ # _ O _ O _ O 
+O _ O _ O _ O _ 
+number of X pieces = 11
+number of O pieces = 11
+
+_ X _ X _ # _ X 
+X _ X _ X _ X _ 
+_ X _ X _ X _ # 
+O _ O _ # _ X _ 
+_ # _ # _ # _ # 
+O _ # _ # _ O _ 
+_ # _ O _ O _ O 
+O _ O _ O _ O _ 
+number of X pieces = 11
+number of O pieces = 11
+
+_ X _ X _ # _ X 
+X _ X _ X _ X _ 
+_ X _ X _ X _ # 
+O _ O _ # _ X _ 
+_ # _ # _ # _ # 
+O _ # _ # _ O _ 
+_ O _ O _ O _ O 
+# _ O _ O _ O _ 
+number of X pieces = 11
+number of O pieces = 11
+
+_ X _ X _ # _ X 
+X _ X _ X _ # _ 
+_ X _ X _ X _ X 
+O _ O _ # _ X _ 
+_ # _ # _ # _ # 
+O _ # _ # _ O _ 
+_ O _ O _ O _ O 
+# _ O _ O _ O _ 
+number of X pieces = 11
+number of O pieces = 11
+
+_ X _ X _ # _ X 
+X _ X _ X _ # _ 
+_ X _ X _ X _ X 
+O _ O _ # _ X _ 
+_ # _ # _ # _ # 
+O _ # _ O _ O _ 
+_ O _ O _ # _ O 
+# _ O _ O _ O _ 
+number of X pieces = 11
+number of O pieces = 11
+
+_ X _ X _ # _ X 
+X _ X _ X _ # _ 
+_ X _ X _ X _ X 
+O _ O _ # _ # _ 
+_ # _ # _ # _ X 
+O _ # _ O _ O _ 
+_ O _ O _ # _ O 
+# _ O _ O _ O _ 
+number of X pieces = 11
+number of O pieces = 11
+
+_ X _ X _ # _ X 
+X _ X _ X _ # _ 
+_ X _ X _ X _ X 
+O _ O _ # _ # _ 
+_ # _ # _ O _ X 
+O _ # _ # _ O _ 
+_ O _ O _ # _ O 
+# _ O _ O _ O _ 
+number of X pieces = 11
+number of O pieces = 11
+
+_ X _ X _ # _ X 
+X _ X _ X _ # _ 
+_ X _ # _ X _ X 
+O _ # _ # _ # _ 
+_ X _ # _ O _ X 
+O _ # _ # _ O _ 
+_ O _ O _ # _ O 
+# _ O _ O _ O _ 
+number of X pieces = 11
+number of O pieces = 10
+
+_ X _ X _ # _ X 
+X _ X _ X _ # _ 
+_ X _ # _ X _ X 
+O _ O _ # _ # _ 
+_ # _ # _ O _ X 
+# _ # _ # _ O _ 
+_ O _ O _ # _ O 
+# _ O _ O _ O _ 
+number of X pieces = 10
+number of O pieces = 10
+
+_ X _ X _ # _ X 
+X _ X _ X _ # _ 
+_ X _ # _ X _ # 
+O _ O _ # _ X _ 
+_ # _ # _ O _ X 
+# _ # _ # _ O _ 
+_ O _ O _ # _ O 
+# _ O _ O _ O _ 
+number of X pieces = 10
+number of O pieces = 10
+
+_ X _ X _ # _ X 
+X _ X _ X _ # _ 
+_ X _ # _ X _ O 
+O _ O _ # _ # _ 
+_ # _ # _ # _ X 
+# _ # _ # _ O _ 
+_ O _ O _ # _ O 
+# _ O _ O _ O _ 
+number of X pieces = 9
+number of O pieces = 10
+
+_ X _ X _ # _ X 
+X _ X _ X _ # _ 
+_ # _ # _ X _ O 
+O _ # _ # _ # _ 
+_ # _ X _ # _ X 
+# _ # _ # _ O _ 
+_ O _ O _ # _ O 
+# _ O _ O _ O _ 
+number of X pieces = 9
+number of O pieces = 9
+
+_ X _ X _ # _ X 
+X _ X _ X _ # _ 
+_ O _ # _ X _ O 
+# _ # _ # _ # _ 
+_ # _ X _ # _ X 
+# _ # _ # _ O _ 
+_ O _ O _ # _ O 
+# _ O _ O _ O _ 
+number of X pieces = 9
+number of O pieces = 9
+
+_ X _ X _ # _ X 
+X _ # _ X _ # _ 
+_ # _ # _ X _ O 
+X _ # _ # _ # _ 
+_ # _ X _ # _ X 
+# _ # _ # _ O _ 
+_ O _ O _ # _ O 
+# _ O _ O _ O _ 
+number of X pieces = 9
+number of O pieces = 8
+
+_ X _ X _ # _ X 
+X _ # _ X _ # _ 
+_ # _ # _ X _ O 
+X _ # _ # _ # _ 
+_ # _ X _ # _ X 
+# _ # _ O _ O _ 
+_ O _ # _ # _ O 
+# _ O _ O _ O _ 
+number of X pieces = 9
+number of O pieces = 8
+
+_ X _ X _ # _ X 
+X _ # _ # _ # _ 
+_ # _ X _ X _ O 
+X _ # _ # _ # _ 
+_ # _ X _ # _ X 
+# _ # _ O _ O _ 
+_ O _ # _ # _ O 
+# _ O _ O _ O _ 
+number of X pieces = 9
+number of O pieces = 8
+
+_ X _ X _ # _ X 
+X _ # _ # _ # _ 
+_ # _ X _ X _ O 
+X _ O _ # _ # _ 
+_ # _ # _ # _ X 
+# _ # _ # _ O _ 
+_ O _ # _ # _ O 
+# _ O _ O _ O _ 
+number of X pieces = 8
+number of O pieces = 8
+
+_ X _ X _ # _ X 
+X _ # _ # _ # _ 
+_ # _ # _ X _ O 
+X _ # _ # _ # _ 
+_ X _ # _ # _ X 
+# _ # _ # _ O _ 
+_ O _ # _ # _ O 
+# _ O _ O _ O _ 
+number of X pieces = 8
+number of O pieces = 7
+
+_ X _ X _ # _ X 
+X _ # _ # _ # _ 
+_ # _ # _ X _ O 
+X _ # _ # _ # _ 
+_ X _ # _ # _ X 
+# _ # _ # _ O _ 
+_ O _ O _ # _ O 
+# _ O _ # _ O _ 
+number of X pieces = 8
+number of O pieces = 7
+
+_ X _ X _ # _ X 
+X _ # _ # _ # _ 
+_ # _ # _ X _ O 
+X _ # _ # _ # _ 
+_ X _ # _ # _ # 
+# _ # _ # _ # _ 
+_ O _ O _ X _ O 
+# _ O _ # _ O _ 
+number of X pieces = 8
+number of O pieces = 6
+
+_ X _ X _ # _ X 
+X _ # _ # _ # _ 
+_ # _ # _ X _ O 
+X _ # _ # _ # _ 
+_ X _ # _ # _ # 
+# _ # _ O _ # _ 
+_ O _ O _ # _ O 
+# _ O _ # _ # _ 
+number of X pieces = 7
+number of O pieces = 6
+
+_ # _ X _ # _ X 
+X _ X _ # _ # _ 
+_ # _ # _ X _ O 
+X _ # _ # _ # _ 
+_ X _ # _ # _ # 
+# _ # _ O _ # _ 
+_ O _ O _ # _ O 
+# _ O _ # _ # _ 
+number of X pieces = 7
+number of O pieces = 6
+
+_ # _ X _ # _ X 
+X _ X _ # _ # _ 
+_ # _ # _ X _ O 
+X _ # _ # _ # _ 
+_ X _ # _ O _ # 
+# _ # _ # _ # _ 
+_ O _ O _ # _ O 
+# _ O _ # _ # _ 
+number of X pieces = 7
+number of O pieces = 6
+
+_ # _ X _ # _ X 
+# _ X _ # _ # _ 
+_ X _ # _ X _ O 
+X _ # _ # _ # _ 
+_ X _ # _ O _ # 
+# _ # _ # _ # _ 
+_ O _ O _ # _ O 
+# _ O _ # _ # _ 
+number of X pieces = 7
+number of O pieces = 6
+
+_ # _ X _ # _ X 
+# _ X _ # _ # _ 
+_ X _ # _ X _ O 
+X _ # _ # _ # _ 
+_ X _ # _ O _ # 
+# _ O _ # _ # _ 
+_ O _ # _ # _ O 
+# _ O _ # _ # _ 
+number of X pieces = 7
+number of O pieces = 6
+
+_ # _ # _ # _ X 
+# _ X _ X _ # _ 
+_ X _ # _ X _ O 
+X _ # _ # _ # _ 
+_ X _ # _ O _ # 
+# _ O _ # _ # _ 
+_ O _ # _ # _ O 
+# _ O _ # _ # _ 
+number of X pieces = 7
+number of O pieces = 6
+
+_ # _ # _ # _ X 
+# _ X _ X _ # _ 
+_ X _ # _ X _ O 
+X _ # _ O _ # _ 
+_ X _ # _ # _ # 
+# _ O _ # _ # _ 
+_ O _ # _ # _ O 
+# _ O _ # _ # _ 
+number of X pieces = 7
+number of O pieces = 6
+
+_ # _ # _ # _ X 
+# _ X _ X _ # _ 
+_ X _ # _ X _ O 
+X _ # _ O _ # _ 
+_ # _ # _ # _ # 
+# _ # _ # _ # _ 
+_ O _ X _ # _ O 
+# _ O _ # _ # _ 
+number of X pieces = 7
+number of O pieces = 5
+
+_ # _ # _ # _ X 
+# _ X _ X _ O _ 
+_ X _ # _ # _ O 
+X _ # _ # _ # _ ERROR output too long.
